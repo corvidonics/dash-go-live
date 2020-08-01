@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ce19f0e.chunk.css",
-    "main.js": "/static/js/main.b9d40ca7.chunk.js",
-    "main.js.map": "/static/js/main.b9d40ca7.chunk.js.map",
+    "main.css": "/static/css/main.8b0aa8aa.chunk.css",
+    "main.js": "/static/js/main.e3558725.chunk.js",
+    "main.js.map": "/static/js/main.e3558725.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.75c5cf27.js",
     "runtime-main.js.map": "/static/js/runtime-main.75c5cf27.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4970000a.chunk.js": "/static/js/2.4970000a.chunk.js",
-    "static/js/2.4970000a.chunk.js.map": "/static/js/2.4970000a.chunk.js.map",
+    "static/js/2.a54f31fc.chunk.js": "/static/js/2.a54f31fc.chunk.js",
+    "static/js/2.a54f31fc.chunk.js.map": "/static/js/2.a54f31fc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.500d3ff0f1a80241b55d1e39fc3742c1.js": "/precache-manifest.500d3ff0f1a80241b55d1e39fc3742c1.js",
+    "precache-manifest.4738bc5e7032d9612c13a5165f1eeae0.js": "/precache-manifest.4738bc5e7032d9612c13a5165f1eeae0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.7ce19f0e.chunk.css.map": "/static/css/main.7ce19f0e.chunk.css.map",
-    "static/js/2.4970000a.chunk.js.LICENSE.txt": "/static/js/2.4970000a.chunk.js.LICENSE.txt",
+    "static/css/main.8b0aa8aa.chunk.css.map": "/static/css/main.8b0aa8aa.chunk.css.map",
+    "static/js/2.a54f31fc.chunk.js.LICENSE.txt": "/static/js/2.a54f31fc.chunk.js.LICENSE.txt",
     "static/media/Scoreboard_mvp.webp": "/static/media/Scoreboard_mvp.0b432567.webp",
+    "static/media/barfly.gif": "/static/media/barfly.6e5495fe.gif",
     "static/media/cs-logo-inv.png": "/static/media/cs-logo-inv.b7df8531.png",
-    "static/media/defusal_kit.webp": "/static/media/defusal_kit.5bea75fd.webp"
+    "static/media/csgo-theme.mp3": "/static/media/csgo-theme.d6373161.mp3",
+    "static/media/defusal_kit.webp": "/static/media/defusal_kit.5bea75fd.webp",
+    "static/media/welcome.gif": "/static/media/welcome.0ee6832a.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.75c5cf27.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4970000a.chunk.js",
-    "static/css/main.7ce19f0e.chunk.css",
-    "static/js/main.b9d40ca7.chunk.js"
+    "static/js/2.a54f31fc.chunk.js",
+    "static/css/main.8b0aa8aa.chunk.css",
+    "static/js/main.e3558725.chunk.js"
   ]
 }

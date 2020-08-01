@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.2761f001.chunk.css",
-    "main.js": "/static/js/main.8dbdb761.chunk.js",
-    "main.js.map": "/static/js/main.8dbdb761.chunk.js.map",
+    "main.js": "/static/js/main.a1349e6b.chunk.js",
+    "main.js.map": "/static/js/main.a1349e6b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.75c5cf27.js",
     "runtime-main.js.map": "/static/js/runtime-main.75c5cf27.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
     "static/js/2.a54f31fc.chunk.js": "/static/js/2.a54f31fc.chunk.js",
     "static/js/2.a54f31fc.chunk.js.map": "/static/js/2.a54f31fc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.315a9bb351fd498e338fef3a15fc8d2f.js": "/precache-manifest.315a9bb351fd498e338fef3a15fc8d2f.js",
+    "precache-manifest.b9e2e31b78ce263eab1d741a231be330.js": "/precache-manifest.b9e2e31b78ce263eab1d741a231be330.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.2761f001.chunk.css.map": "/static/css/main.2761f001.chunk.css.map",
@@ -17,7 +17,7 @@
     "static/media/Scoreboard_mvp.webp": "/static/media/Scoreboard_mvp.0b432567.webp",
     "static/media/barfly.gif": "/static/media/barfly.6e5495fe.gif",
     "static/media/cs-logo-inv.png": "/static/media/cs-logo-inv.b7df8531.png",
-    "static/media/csgo-theme.mp3": "/static/media/csgo-theme.d6373161.mp3",
+    "static/media/csgo-theme.mp3": "/static/media/csgo-theme.558819fa.mp3",
     "static/media/defusal_kit.webp": "/static/media/defusal_kit.5bea75fd.webp",
     "static/media/welcome.gif": "/static/media/welcome.0ee6832a.gif"
   },
@@ -26,6 +26,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a54f31fc.chunk.js",
     "static/css/main.2761f001.chunk.css",
-    "static/js/main.8dbdb761.chunk.js"
+    "static/js/main.a1349e6b.chunk.js"
   ]
 }

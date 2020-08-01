@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37d5665d70787f3ea4ee919657e7dc84",
+    "revision": "3b70a36a8515e2db6dbb408e941c8efb",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "c7989e755aec195fe898",
+    "revision": "3e0ac4fcbb279ee71f8a",
     "url": "/static/css/main.2761f001.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a54f31fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7989e755aec195fe898",
-    "url": "/static/js/main.8dbdb761.chunk.js"
+    "revision": "3e0ac4fcbb279ee71f8a",
+    "url": "/static/js/main.a1349e6b.chunk.js"
   },
   {
     "revision": "22c73ef20c632b424314",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cs-logo-inv.b7df8531.png"
   },
   {
-    "revision": "d6373161601ce2581222b2fb880269e0",
-    "url": "/static/media/csgo-theme.d6373161.mp3"
+    "revision": "558819fab20b4f0901253145432fdc87",
+    "url": "/static/media/csgo-theme.558819fa.mp3"
   },
   {
     "revision": "5bea75fd1f3cd014f8c1afc01f03d2a9",

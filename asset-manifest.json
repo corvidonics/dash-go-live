@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.0881c1d6.chunk.css",
-    "main.js": "/static/js/main.92b73d8f.chunk.js",
-    "main.js.map": "/static/js/main.92b73d8f.chunk.js.map",
+    "main.css": "/static/css/main.7bc155f9.chunk.css",
+    "main.js": "/static/js/main.e2158eea.chunk.js",
+    "main.js.map": "/static/js/main.e2158eea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.75c5cf27.js",
     "runtime-main.js.map": "/static/js/runtime-main.75c5cf27.js.map",
-    "static/css/2.1076e4e2.chunk.css": "/static/css/2.1076e4e2.chunk.css",
-    "static/js/2.d5699433.chunk.js": "/static/js/2.d5699433.chunk.js",
-    "static/js/2.d5699433.chunk.js.map": "/static/js/2.d5699433.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.db640b08.chunk.js": "/static/js/2.db640b08.chunk.js",
+    "static/js/2.db640b08.chunk.js.map": "/static/js/2.db640b08.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3ba2f3cdc9677121df41599d35bd9045.js": "/precache-manifest.3ba2f3cdc9677121df41599d35bd9045.js",
+    "precache-manifest.ab776a5e69c40874a4d98409f3052fea.js": "/precache-manifest.ab776a5e69c40874a4d98409f3052fea.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.1076e4e2.chunk.css.map": "/static/css/2.1076e4e2.chunk.css.map",
-    "static/css/main.0881c1d6.chunk.css.map": "/static/css/main.0881c1d6.chunk.css.map",
-    "static/js/2.d5699433.chunk.js.LICENSE.txt": "/static/js/2.d5699433.chunk.js.LICENSE.txt",
-    "static/media/BSOD.wav": "/static/media/BSOD.c4cf846a.wav",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.7bc155f9.chunk.css.map": "/static/css/main.7bc155f9.chunk.css.map",
+    "static/js/2.db640b08.chunk.js.LICENSE.txt": "/static/js/2.db640b08.chunk.js.LICENSE.txt",
     "static/media/Scoreboard_mvp.webp": "/static/media/Scoreboard_mvp.0b432567.webp",
-    "static/media/clippy.png": "/static/media/clippy.6744d730.png",
     "static/media/defusal_kit.webp": "/static/media/defusal_kit.5bea75fd.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.75c5cf27.js",
-    "static/css/2.1076e4e2.chunk.css",
-    "static/js/2.d5699433.chunk.js",
-    "static/css/main.0881c1d6.chunk.css",
-    "static/js/main.92b73d8f.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.db640b08.chunk.js",
+    "static/css/main.7bc155f9.chunk.css",
+    "static/js/main.e2158eea.chunk.js"
   ]
 }
